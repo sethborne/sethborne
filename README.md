@@ -1,25 +1,35 @@
-### Hello World!!
+## Hi, I'm Seth 👋
 
+### Web developer building GIS tools
 
-#### 🌱 I’m currently learning front end development, algorithms and React.
+I build Survey123 and Experience Builder apps, web maps, and the data pipelines behind them. My path runs from landscape architecture, through 3D visualization, into web development, and now GIS, so I tend to think about data, design, and the people using the map all at once.
 
-#### 👯 I’m looking to collaborate on open source projects.
+#### 🗺️ What I'm working on
+- **WA textile reuse and recycling mapping** (UW GIS capstone, data lead): mapping textile reuse and recycling locations across Washington State
+- **Survey123 + Experience Builder pipeline**: one Survey123 Connect survey feeding two Experience Builder apps
+- **Deduper**: a web tool for cleaning duplicate location records
+- **Tracker**: a web tool for reviewing and tracking data through final QA
 
-#### 🤔 I’m looking for help with learning Github for collaboration.
+👉 See them on my portfolio: **[sethborne.github.io](https://sethborne.github.io/)**
 
-#### 📫 How to reach me: 
+#### 🎯 What I'm looking for
+- GIS developer, GIS web/app developer, or GIS analyst roles where web skills matter
+- Open source or community GIS projects to collaborate on
 
+#### 🌱 Currently learning
+- Python for GIS
 
-<a href="https://twitter.com/jimbobbennett">
-  <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/social/twitter.svg" alt="dev.to" style="vertical-align:top; margin:6px 4px">
-</a>
+#### ⚡ Tools I use
+**GIS:** ArcGIS Pro · ArcGIS Online / Enterprise · Survey123 · Experience Builder · Scene Viewer
+**Web:** JavaScript · Node.js · HTML / CSS · VS Code · Git
 
-#### ⚡ Tools I use:
+#### 🏅 Community
+- WAGISA Dick Thomas Award recipient
+- WAGISA / YP-SIG volunteer
 
+#### 📫 Reach me
+- Portfolio: [sethborne.github.io](https://sethborne.github.io/)
 
-<a href="https://code.visualstudio.com?WT.mc_id=academic-0000-jabenn">
-  <img src="https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
-</a>
 
 <!--
 **sethborne/sethborne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
